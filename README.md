@@ -10,4 +10,5 @@ consider swithching to that font. In theory, they should work with every Nerdfon
 		- ascii or unicode art
 		- can generate prompts with code (as you will see)
 	- be creative
+	- PLEASE name your propmts. I want to be able to search for them later.
 	- NSFW prompts welcome (if you have any)
